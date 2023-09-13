@@ -3,5 +3,6 @@ public class OlaMundo {
         System.out.println("Olá, Fulano!");
 
         System.out.println("Funcionalidade n.2");
+        System.out.println("Funcionalidade n.1");
     }
 }
